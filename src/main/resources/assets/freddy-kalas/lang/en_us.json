@@ -1,0 +1,28 @@
+{
+  "item.freddy-kalas.freddy_kalas_item": "Freddy Kalas Fragment",
+  "item.freddy-kalas.evil_freddy_kalas_item": "Eddy Mas",
+
+  "item.minecraft.potion.effect.jovial_potion":  "Potion of Jovial",
+  "item.minecraft.potion.effect.jovial_potion_1":  "Potion of Jovial +1",
+  "item.minecraft.potion.effect.jovial_potion_2":  "Potion of Jovial +2",
+  "item.minecraft.potion.effect.jovial_potion_-1":  "Potion of Jovial -1",
+  "item.minecraft.potion.effect.jovial_potion_-2":  "Potion of Jovial -2",
+  "item.minecraft.splash_potion.effect.jovial_potion":  "Splash Potion of Jovial",
+  "item.minecraft.splash_potion.effect.jovial_potion_1":  "Splash Potion of Jovial +1",
+  "item.minecraft.splash_potion.effect.jovial_potion_2":  "Splash Potion of Jovial +2",
+  "item.minecraft.splash_potion.effect.jovial_potion_-1":  "Splash Potion of Jovial -1",
+  "item.minecraft.splash_potion.effect.jovial_potion_-2":  "Splash Potion of Jovial -2",
+  "item.minecraft.lingering_potion.effect.jovial_potion":  "Buggy Item, don't use",
+  "item.minecraft.lingering_potion.effect.jovial_potion_1":  "Buggy Item, don't use",
+  "item.minecraft.lingering_potion.effect.jovial_potion_2":  "Buggy Item, don't use",
+  "item.minecraft.lingering_potion.effect.jovial_potion_-1":  "Buggy Item, don't use",
+  "item.minecraft.lingering_potion.effect.jovial_potion_-2":  "Buggy Item, don't use",
+
+  "block.freddy-kalas.freddy_kalas_corruptithar": "Freddy Kalas Corruptithar",
+
+  "subtitles.freddy-kalas.jovial-song": "Vennlig, Munter og Omgjengelig",
+  "subtitles.freddy-kalas.freddy-kalas":  "Freddy Kalas",
+  "subtitles.freddy-kalas.evil-freddy-kalas":  "F̶̨͉͈̔̋̏̽̍̕͘r̴͍̱͓̪̹͔͐͛̂̋̏e̵͇̘͍̳̫͑̈d̴̜͓̹̆̍̈́͐̓͑̍̃͝d̸͚̮̽̕y̵̡̨̩̭͎̬̺͙͉̹̿̋ ̷̰̜̂͆͗͑͑͊̍Ķ̶̽́͑͘̚̚͝á̸̛̟͉̲̰͖̙̠̍̀̾͆̕͘͠͝ḽ̶͖̻̝̣̼͈͎͚̿à̶̼̻̩̞̗͈̾͂́s̶̮͓͔͚̦̈͛̐̈͘",
+
+  "effect.freddy-kalas.jovial": "Jovial"
+}

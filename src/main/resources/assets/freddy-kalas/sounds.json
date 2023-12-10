@@ -1,0 +1,27 @@
+{
+  "vine-boom": {
+    "subtitle": "subtitles.freddy-kalas.vine-boom",
+    "sounds": [
+      "freddy-kalas:vine-boom"
+    ]
+  },
+  "jovial-song": {
+    "subtitle": "subtitles.freddy-kalas.jovial-song",
+    "sounds": [
+      "freddy-kalas:jovial-song"
+    ]
+  },
+  "freddy-kalas": {
+    "subtitle": "subtitles.freddy-kalas.freddy-kalas",
+    "sounds": [
+      "freddy-kalas:freddy-kalas"
+    ]
+  },
+  "evil-freddy-kalas": {
+    "subtitle": "subtitles.freddy-kalas.evil-freddy-kalas",
+    "sounds": [
+      "freddy-kalas:freddy-kalas"
+    ]
+  }
+}
+

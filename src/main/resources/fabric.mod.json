@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "freddy-kalas",
+	"version": "${version}",
+	"name": "Freddy Kalas Mod",
+	"description": "boom",
+	"authors": [
+		"JustTemmie"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/freddy-kalas/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mom.beaver.freddy_kalas.FreddyKalas"
+		],
+		"client": [
+			"mom.beaver.freddy_kalas.FreddyKalasClient"
+		],
+		"server": [
+			"mom.beaver.freddy_kalas.FreddyKalasServer"
+		]
+	},
+	"mixins": [
+      "freddy-kalas.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
